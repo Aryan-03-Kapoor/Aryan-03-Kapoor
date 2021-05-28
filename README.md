@@ -1,5 +1,6 @@
-## Hi Everyone 👋
-<p><img align="right" src="https://octodex.github.com/images/spectrocat.png" width="250&quot;" style="max-width:70%;"></p>
+# <p align="center">Hi Everyone 👋</p>
+
+<p><img align="right" src="Cap.png" width="250&quot;" style="max-width:100%;"></p>
 
 🔭 I’m currently a student and focusing on coding. I am currently pursuing Computer Science Engineering at SRM Institute of Science and Technology, Chennai.
 
